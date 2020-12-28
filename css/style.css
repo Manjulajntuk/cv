@@ -1,0 +1,28 @@
+
+	body
+	{
+		background-color: powderblue;
+	}
+	hr{
+		
+		border-style:none;
+		border-top-style: dotted;
+		border-color: grey;
+		border-width: 5px;
+		
+		width: 10%;
+	}
+	h3{
+		color:#FF3D24
+	}
+	h1{
+		color: #4057BF
+	}
+	.veg{
+		 
+		height: auto; 
+    width: auto; 
+    max-width: 120px; 
+    max-height: 300px;
+		
+	}
