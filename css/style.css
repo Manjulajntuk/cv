@@ -26,3 +26,18 @@
     max-height: 300px;
 		
 	}
+	a:link {
+  color: #FF0000;
+}
+
+/* visited link */
+a:visited {
+  color: #cc00ff;
+}
+
+a:hover {
+  color: hotpink;
+}
+a:active {
+  color: blue;
+}
